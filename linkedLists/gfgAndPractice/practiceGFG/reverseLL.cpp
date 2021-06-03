@@ -1,3 +1,4 @@
+// problem link:https://www.geeksforgeeks.org/reverse-a-linked-list/
 void reverse(){
   Node* current=head;
   Node *prev=NULL, *next=NULL;
