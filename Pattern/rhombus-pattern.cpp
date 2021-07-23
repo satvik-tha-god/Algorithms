@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     int rows;
-    cout<<"Enter the number of rows and columns"<<endl;
+    cout<<"Enter the number of rows and columns:"<<endl;
     cin>>rows;
     for(int i=0;i<rows;i++){
         for(int k=0;k<=i-1;k++){
